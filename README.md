@@ -1,5 +1,6 @@
 # End of First Week
 ## 9/8/2017
+<<<<<<< HEAD
 I have learned how to code. The most important thing I have learned is that coding is very very percise. It must be perfect in order to work or it wont work correctly.I love to code it is funnnn!
 
 ---
@@ -15,3 +16,7 @@ I think that coding is very wierd, fun and complex. But that is in its own way. 
 # End of Third Week
 ## 9/22/2017
 What I have learned is how to encrypt and decrypt. This helpes me under stand lots about the computer and its code functions. I think this will help me in the future incase I need to use code again in the future. Aswell in a job, family situaltion or just for fun like mr gold.   
+=======
+I have learned how to code. The most important thing I have learned is that coding is very very percise. It must be perfect in order to work or it wont work correctly.
+lIllIllllIlllIIIl
+>>>>>>> da2dfa6d18da72fcd5d1e8b4a43b4f3c0a570432
