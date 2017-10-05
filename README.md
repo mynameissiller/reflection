@@ -28,5 +28,9 @@ What I have learned this week was how to use xml and how to code in it. I have a
 # End of fourth week
 ## 9/29/2017
 Over the past week me and my classmates have learned how to use various types 
-xml and also we learned on how to use html and make 
-our own website
+xml and also we learned on how to use html and make our own website.
+
+# End Of Fifth Week
+## 9/5/2017
+What I have learned this week is how to build a website with code from scratch. And also I have learned how to use html with xml and learn their diffrences.
+I think that this is not easy but will be by the time that we are done with this unit with code,xml,html etc. 
