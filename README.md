@@ -34,3 +34,9 @@ xml and also we learned on how to use html and make our own website.
 ## 9/5/2017
 What I have learned this week is how to build a website with code from scratch. And also I have learned how to use html with xml and learn their diffrences.
 I think that this is not easy but will be by the time that we are done with this unit with code,xml,html etc. 
+
+# End Of Sixth Week
+## 10/13/2017
+I have learned how to do many things this week. The best thing I have learned this week is how to build a website
+with html. I learned how to align the wording to make it neat, I also have learned how to put a submit button at the bottom along with the rest of the circle boxes and the square boxes. My favorite thing I have done all week was this website project but it was also hard so it was difficult somethimes. 
+I loved putting the picture of the toppings on like pepperoni,bannana peppers,mushrooms ect. 
