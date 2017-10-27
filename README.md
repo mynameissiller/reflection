@@ -40,3 +40,15 @@ I think that this is not easy but will be by the time that we are done with this
 I have learned how to do many things this week. The best thing I have learned this week is how to build a website
 with html. I learned how to align the wording to make it neat, I also have learned how to put a submit button at the bottom along with the rest of the circle boxes and the square boxes. My favorite thing I have done all week was this website project but it was also hard so it was difficult somethimes. 
 I loved putting the picture of the toppings on like pepperoni,bannana peppers,mushrooms ect. 
+
+# End of Seventh Week
+## 10/27/2017
+This week I have learned the importance of spelling, paitence,and perfection needed to make a good website.
+It includes these because for paitence you have to take time with work or there WILL be mistakes. Also
+for spelling if your code isnt spelled right you will have to take more time finding out what you did wrong, that
+also goes well with paitence. Finally perfection with this (perfection) can help your grade spiral up quickly
+making your school life happy, your parents happy, and most importantly you happy. My favorite part of this week
+how we could use websites such as W3 Schools to help us find new codes that we could use and remember in our next website.
+These reasons that I have listed above are great in my opinon because spelling, paitence,and perfection is needed to make a 100%
+A website.
+
