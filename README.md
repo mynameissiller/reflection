@@ -52,6 +52,7 @@ how we could use websites such as W3 Schools to help us find new codes that we c
 These reasons that I have listed above are great in my opinon because spelling, paitence,and perfection is needed to make a 100%
 A website.
 
-#Enf Of Eighth Week
-## 11/3/2017On this week of october I have learned how to code a webiste so it could look just alike any other website.But one thing I love
+# End Of Eighth Week
+## 11/3/2017
+On this week of october I have learned how to code a webiste so it could look just alike any other website.But one thing I love
 is that im smarter thank probrably 25% of the world at coding sunce im moving onto java script soon,Which I think is amazing. Coding takes time,paitence, and most importantly hard work to put into it.These are what I have learned to do in the past eight weeks of learning computer fundamentals II.
