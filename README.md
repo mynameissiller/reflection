@@ -56,3 +56,9 @@ A website.
 ## 11/3/2017
 On this week of october I have learned how to code a webiste so it could look just alike any other website.But one thing I love
 is that im smarter thank probrably 25% of the world at coding sunce im moving onto java script soon,Which I think is amazing. Coding takes time,paitence, and most importantly hard work to put into it.These are what I have learned to do in the past eight weeks of learning computer fundamentals II.
+
+# End of Tenth Week
+## 12/1/2017
+On this week what i hsve learned is what everyone working together should do. Im saying
+That meaning teamwork and if your not working together there is no work to complete because in the word teamwork it ends with work and begins with team. 
+This statement about teamwork that im wrighting about is important mostly because you all complete the task at hand together not alone.
