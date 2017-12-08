@@ -62,3 +62,8 @@ is that im smarter thank probrably 25% of the world at coding sunce im moving on
 On this week what i hsve learned is what everyone working together should do. Im saying
 That meaning teamwork and if your not working together there is no work to complete because in the word teamwork it ends with work and begins with team. 
 This statement about teamwork that im wrighting about is important mostly because you all complete the task at hand together not alone.
+
+#End of Eleventh Week
+## 12/8/2017
+This week I have learn more about how CDN works and how it connects to python, css etc. I love how I can learn fast form how to use css html and python by getting taught rembering
+and remembering over agin to study how the code works. This is my conclusion to what I learned this week so far and so on. 
