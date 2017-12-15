@@ -67,3 +67,9 @@ This statement about teamwork that im wrighting about is important mostly becaus
 ## 12/8/2017
 This week I have learn more about how CDN works and how it connects to python, css etc. I love how I can learn fast form how to use css html and python by getting taught rembering
 and remembering over agin to study how the code works. This is my conclusion to what I learned this week so far and so on. 
+
+#End of 12th Week
+## 12/15/2017
+I did a lot this week suck as pushing and pulling, my favorite part was probrably 
+commiting fixing errors in the code. The hardest thing we did as a team was coomunication towards one another. But others wise this week i learned very much compared to what I knew before and this code could help me in
+the long run we like ti call life.
