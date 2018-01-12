@@ -71,5 +71,11 @@ and remembering over agin to study how the code works. This is my conclusion to 
 #End of 12th Week
 ## 12/15/2017
 I did a lot this week suck as pushing and pulling, my favorite part was probrably 
-commiting fixing errors in the code. The hardest thing we did as a team was coomunication towards one another. But others wise this week i learned very much compared to what I knew before and this code could help me in
-the long run we like ti call life.
+commiting fixing errors in the code. The hardest thing we did as a team was coomunication towards one another. But others wise this week I learned 
+very much compared to what I knew before and this code could help me in the long run.
+
+#End of 13th Week
+## 1/12/2018
+What we have done this week was exciting butscary the exciting part was when I found out that we have semester break and the hard and scary part was 
+when I did have anything for google friday but then I started to work and work and its all coming together and showing in my grades overtime. If I were to tell my
+future daughter or son something it woulod be to not give up on anything even if its hard just work till the end to get better. 
